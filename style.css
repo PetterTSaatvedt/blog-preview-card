@@ -27,6 +27,11 @@ h2 {
     margin: 0.5rem 0 0.5rem 0;
 }
 
+h2:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
+
 .card {
     display: flex;
     flex-direction: column;
